@@ -1,16 +1,16 @@
 # form_validation
 
-A new Flutter project.
+## [Watch it on YouTube](https://youtu.be/tsoZK7kWx20)
 
-## Getting Started
+We apply simple animation on bottom navigation
 
-This project is a starting point for a Flutter application.
+### Bottom Navigation with animation demo
 
-A few resources to get you started if this is your first Flutter project:
+![App UI](https://github.com/ravi84184/yt-flutter-form-validation/blob/main/ezgif.com-gif-maker.gif)
+![App UI](https://github.com/ravi84184/yt-flutter-form-validation/blob/main/New%20Project%20(3).png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/yt-flutter-form-validation/count.svg" alt ="Loading">
